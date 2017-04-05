@@ -1,2 +1,2 @@
 # jaypee.h
-basic Number Theary algorithm
+basic Number Theory algorithm
