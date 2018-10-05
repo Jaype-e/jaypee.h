@@ -14,6 +14,7 @@ int bsearch(int arr[],int size,int item){
 	}
 	
 }
+#include <bits/stdc++.h>
 #include <map>
 #include <set>
 #include <list>
