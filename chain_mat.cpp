@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include<stack>
 #include <string>
 using namespace std;
 map < pair<int,int> ,int > mp;
